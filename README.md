@@ -1,4 +1,4 @@
-![Alazar Sisay Banner](https://imgur.com/9lUoRYk.png)
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 
 # Hi there, I'm Alazar Sisay 👋
 
