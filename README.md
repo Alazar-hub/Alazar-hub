@@ -1,3 +1,5 @@
+![Alazar Sisay Banner](https://imgur.com/9lUoRYk.png)
+
 # Hi there, I'm Alazar Sisay 👋
 
 🚀 A passionate **Computer Science Student** and **Creative Developer** from Ethiopia  
@@ -51,4 +53,3 @@
 ---
 
 > "Success is not final, failure is not fatal: It is the courage to continue that counts." – *Winston Churchill*
-
