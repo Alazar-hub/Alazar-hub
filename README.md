@@ -1,55 +1,106 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
-
 # Hi there, I'm Alazar Sisay 👋
 
-🚀 A passionate **Computer Science Student** and **Creative Developer** from Ethiopia  
-🎯 Focused on becoming a full-stack developer and building amazing digital experiences  
+🚀 Computer Science Graduate | Full-Stack Developer | AI Builder | Content Creator
+
+I'm passionate about building modern web applications, AI-powered tools, and digital products that solve real-world problems.
 
 ---
 
-## 👨‍💻 About Me
+## 🚀 About Me
 
-- 💻 I'm currently a **3rd year Computer Science student**
-- 🧠 I love learning new technologies and working on creative coding projects
-- 🌱 Currently improving my skills in **Web Development** and **AI**
-- 🎨 I enjoy designing, editing, and video production as hobbies
-- 💬 Ask me about **HTML, CSS, JavaScript, Python, C++,** and more!
+- 🎓 Computer Science Graduate
+- 💻 Full-Stack Developer (JavaScript, React, Next.js, Node.js)
+- 🤖 Building AI-powered web applications and SaaS products
+- 🌱 Currently mastering the MERN Stack, Next.js, and AI integration
+- 🎬 YouTube & TikTok creator sharing tech, AI, and football content
+- 🎯 Goal: Build products used by millions worldwide
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠 Tech Stack
 
-**Languages**  
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B)
+### Languages
 
-**Tools & Frameworks**  
-![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css)
+- JavaScript (ES6+)
+- TypeScript
+- Python
+- C++
+- HTML5
+- CSS3
+
+### Frontend
+
+- React
+- Next.js
+- Tailwind CSS
+- Framer Motion
+
+### Backend
+
+- Node.js
+- Express.js
+- MongoDB
+- REST APIs
+
+### AI
+
+- OpenAI API
+- Google Gemini API
+- Whisper AI
+- AI Automation
+
+### Tools
+
+- Git
+- GitHub
+- VS Code
+- Vercel
+- Postman
+- Figma
+
+---
+
+## 🚀 Current Projects
+
+- 🎬 AI Video Clipping Platform
+- 🌐 Personal Brand Website
+- 🤖 AI Automation Tools
+- 📚 Open Source Projects
 
 ---
 
 ## 📈 GitHub Stats
 
-![Alazar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=alazarsisay&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alazarsisay&show_icons=true&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alazarsisay&layout=compact&theme=tokyonight)
 
 ---
 
-## 📫 Connect with Me
+## 🌍 Connect With Me
 
-- 🌐 [Portfolio Website](#) *(coming soon...)*
-- 📧 Email: **alazarsisay@gmail.com**
-- 📷 TikTok: [@alazarsisay](https://www.tiktok.com/@alazarsisay)
-- 🧠 Instagram: [@alazarsisay](https://instagram.com/alazarsisay)
+📧 Email: alazarsisay@gmail.com
+
+💼 LinkedIn: *(Add your LinkedIn profile)*
+
+🌐 Portfolio: *(Coming Soon)*
+
+📺 YouTube: *(Add your channel)*
+
+📷 Instagram: @alazarsisay
+
+🎵 TikTok: @alazarsisay
 
 ---
 
-> "Success is not final, failure is not fatal: It is the courage to continue that counts." – *Winston Churchill*
+## 💡 2026 Goals
+
+- 🚀 Build successful AI SaaS products
+- 🌍 Contribute to Open Source
+- 📈 Grow my developer portfolio
+- 🎯 Become an expert Full-Stack & AI Engineer
+- 💼 Work on products used globally
+
+---
+
+> "Build. Learn. Improve. Repeat."
