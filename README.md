@@ -1,30 +1,28 @@
-<!-- ========================================= -->
-<!-- ALazar SISAY | GITHUB PROFILE README      -->
-<!-- ========================================= -->
+<!-- ================ HEADER ================ -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=230&color=0:020617,50:1D4ED8,100:020617&text=ALAZAR%20SISAY&fontSize=58&fontColor=FFFFFF&fontAlignY=43&desc=FULL-STACK%20WEB%20DEVELOPER&descSize=19&descAlignY=64&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:1D4ED8,100:020617&height=220&section=header&text=ALAZAR%20SISAY&fontSize=60&fontColor=FFFFFF&fontAlignY=38&desc=FULL-STACK%20WEB%20DEVELOPER&descSize=20&descAlignY=58&animation=fadeIn" width="100%" />
 
 <br/>
 
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<a href="https://github.com/Alazar-hub">
+<img src="https://img.shields.io/badge/GitHub-Alazar--hub-181717?style=for-the-badge&logo=github" />
+</a>
+<a href="https://www.linkedin.com/in/alazarsisay/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
 </a>
 <a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail" />
 </a>
 
 <br/><br/>
 
-**Computer Science Graduate | Full-Stack Web Developer**
+### Computer Science Graduate | Full-Stack Web Developer
 
-*Developing modern, responsive and functional web applications.*
+*Build. Code. Innovate.*
 
-📍 Ethiopia &nbsp; | &nbsp; 🌍 Open to International Opportunities
+📍 Ethiopia &nbsp; • &nbsp; 🌍 Open to International Opportunities
 
 </div>
 
@@ -32,25 +30,24 @@
 
 ## 👨‍💻 About Me
 
-Hello, I'm **Alazar Sisay**, a Computer Science graduate and Full-Stack Web Developer from Ethiopia.
+I'm **Alazar Sisay**, a Computer Science graduate and Full-Stack Web Developer from Ethiopia.
 
-I focus on developing modern web applications using JavaScript technologies, building responsive frontend interfaces, creating backend services, designing relational databases, and integrating complete web solutions.
+I specialize in building modern web applications using JavaScript technologies, developing responsive user interfaces, creating backend APIs, and managing relational databases.
 
-I enjoy solving technical problems, writing maintainable code, and transforming ideas into practical software applications.
+I enjoy solving problems, writing clean and maintainable code, and developing practical software solutions.
 
-**My professional focus:**
-- Frontend and backend web development.
-- RESTful API design and integration.
-- Database design and management.
-- Authentication and authorization.
-- Full-stack application development.
-- Testing, debugging and deployment.
+- 💻 Focused on Full-Stack Web Development.
+- ⚛️ Building modern interfaces with React and Next.js.
+- ⚙️ Developing backend applications with Node.js and Express.
+- 🗄️ Working with PostgreSQL and relational databases.
+- 🔐 Implementing authentication and authorization.
+- 🚀 Building functional and responsive web applications.
 
-**Career Objective:** Contribute to a professional software development team as a Junior Full-Stack Developer.
+**Currently open to Junior Full-Stack Developer opportunities.**
 
 ---
 
-## 🧰 Technology Stack
+## 🛠️ Tech Stack
 
 <div align="center">
 
@@ -58,15 +55,21 @@ I enjoy solving technical problems, writing maintainable code, and transforming 
 
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs" />
 
+<br/>
+
 ### Backend Development
 
 <img src="https://skillicons.dev/icons?i=nodejs,express" />
+
+<br/>
 
 ### Database & ORM
 
 <img src="https://skillicons.dev/icons?i=postgres,prisma" />
 
-### Development Tools
+<br/>
+
+### Tools & Deployment
 
 <img src="https://skillicons.dev/icons?i=git,github,postman,vercel" />
 
@@ -74,112 +77,69 @@ I enjoy solving technical problems, writing maintainable code, and transforming 
 
 ---
 
-## ⚡ Technical Skills
+## 💡 Technical Expertise
 
-| Category | Technologies |
+| Category | Skills |
 |:---|:---|
 | Frontend | HTML5, CSS3, JavaScript, TypeScript |
-| UI Development | React.js, Next.js, Responsive Design |
+| Frameworks | React.js, Next.js |
 | Backend | Node.js, Express.js |
-| API | RESTful APIs, Middleware, API Integration |
-| Database | PostgreSQL, SQL, Relational Database Design |
+| API Development | REST APIs, Middleware, API Integration |
+| Database | PostgreSQL, SQL, Database Design |
 | ORM | Prisma, Drizzle ORM |
 | Security | Authentication, Authorization, Protected Routes |
-| Testing | API Testing, Input Validation, Error Handling |
+| Testing | API Testing, Validation, Error Handling |
 | Deployment | Vercel, Render |
-| Version Control | Git, GitHub |
+| Tools | Git, GitHub, Postman |
 
 ---
 
-## 💻 Development Areas
+## 🚀 What I Build
 
 <div align="center">
 
-| Frontend Engineering | Backend Engineering |
+| 🌐 Frontend Development | ⚙️ Backend Development |
 |:---:|:---:|
-| Responsive interfaces | RESTful API development |
-| Reusable components | Server-side business logic |
-| React and Next.js | Node.js and Express.js |
-| TypeScript integration | Authentication and authorization |
+| Responsive websites | RESTful APIs |
+| Interactive dashboards | Backend services |
+| Reusable React components | Authentication systems |
+| Next.js applications | Database integration |
 
-| Database Engineering | Full-Stack Integration |
+| 🗄️ Database Development | 🔗 Full-Stack Development |
 |:---:|:---:|
-| PostgreSQL | Frontend-backend integration |
-| SQL queries | API connectivity |
-| Database relationships | Environment configuration |
-| ORM integration | Application deployment |
+| PostgreSQL databases | Frontend-backend integration |
+| SQL queries | Complete web applications |
+| Database relationships | Secure application workflows |
+| ORM integration | Deployment and testing |
 
 </div>
 
 ---
 
-## 🚀 Projects & Portfolio
-
-I focus on developing practical applications that demonstrate my full-stack development capabilities.
-
-**01 — Personal Portfolio Website**
-
-`HTML` `CSS` `JavaScript`
-
-A responsive professional portfolio featuring personal information, technical skills, projects and contact information.
-
-**02 — React Dashboard**
-
-`React` `TypeScript`
-
-A dynamic dashboard with reusable components, API integration and responsive interfaces.
-
-**03 — Database-Backed REST API**
-
-`Node.js` `Express.js` `PostgreSQL`
-
-A backend application featuring RESTful endpoints, CRUD operations and relational database integration.
-
-**04 — Authentication & Authorization**
-
-`Node.js` `Express.js` `PostgreSQL`
-
-A secure application implementing user authentication, protected routes, role-based access control and input validation.
-
-**05 — Next.js Web Application**
-
-`Next.js` `TypeScript`
-
-A modern web application featuring App Router, dynamic routing and server/client components.
-
-**06 — Full-Stack Application**
-
-`Next.js` `Node.js` `Express.js` `PostgreSQL`
-
-A complete web application integrating frontend, backend, database, authentication and deployment.
-
----
-
-## 📊 GitHub Statistics
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Alazar-hub&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alazar-hub&layout=compact&theme=tokyonight&hide_border=true" />
 
 <br/><br/>
 
-<img width="80%" src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+<img width="80%" src="https://streak-stats.demolab.com?user=Alazar-hub&theme=tokyonight&hide_border=true" />
 
 </div>
 
 ---
 
-## 🎯 Professional Interests
+## 🎯 Professional Goals
 
-- Full-Stack Web Development
-- Frontend Engineering
-- Backend Engineering
-- Database Management
-- REST API Development
-- Software Development
-- Application Testing and Deployment
+- Develop reliable and scalable web applications.
+- Write clean, maintainable and efficient code.
+- Improve software architecture and problem-solving skills.
+- Contribute to real-world software development projects.
+- Collaborate with professional development teams.
+- Grow as a Full-Stack Software Developer.
 
 ---
 
@@ -187,23 +147,23 @@ A complete web application integrating frontend, backend, database, authenticati
 
 <div align="center">
 
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" />
+<a href="https://github.com/Alazar-hub">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
+<a href="https://www.linkedin.com/in/alazarsisay/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 <a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail" />
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 <br/><br/>
 
-**Available for Junior Full-Stack Developer Opportunities**
+### Available for Junior Developer Opportunities
 
-*Building meaningful software through technology and problem-solving.*
+*Building practical solutions through clean and thoughtful code.*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:1D4ED8,100:020617&height=120&section=footer" width="100%" />
 
